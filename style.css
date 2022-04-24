@@ -1,0 +1,14 @@
+body {
+  background-color: #aeffbd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cat_point_check {
+  display: flex;
+  justify-content: space-around;
+}
